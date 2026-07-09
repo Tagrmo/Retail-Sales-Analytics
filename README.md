@@ -81,10 +81,7 @@ Before building the dashboard, the dataset was validated by performing:
 # Dashboard Preview
 
 
-![Dashboard](dashboard.png)
-
----
-
+![Dashboard](Dashboard.png)
 # Project Structure
 
 ```
